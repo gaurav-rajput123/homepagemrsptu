@@ -1,0 +1,36 @@
+{
+  "name": "etreeks",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.9.0",
+    "@emotion/styled": "^11.8.1",
+    "@fortawesome/fontawesome-svg-core": "^6.1.1",
+    "@fortawesome/free-brands-svg-icons": "^6.1.1",
+    "@fortawesome/react-fontawesome": "^0.1.18",
+    "@mui/material": "^5.7.0",
+    "axios": "^0.27.2",
+    "font-awesome": "^4.7.0",
+    "isotope-layout": "^3.0.6",
+    "moment": "^2.29.1",
+    "next": "^12.1.6",
+    "next-share": "^0.13.0",
+    "react": "17.0.2",
+    "react-bootstrap": "^1.6.1",
+    "react-countup": "^6.0.0",
+    "react-dom": "17.0.2",
+    "react-responsive-carousel": "^3.2.23",
+    "react-visibility-sensor": "^5.1.1",
+    "swiper": "^7.2.0"
+  },
+  "devDependencies": {
+    "eslint": "7.32.0",
+    "eslint-config-next": "12.0.1"
+  }
+}
